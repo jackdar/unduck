@@ -18103,7 +18103,7 @@ export const bangs = [
     r: 143,
     s: "Craigslist",
     sc: "Online (marketplace)",
-    t: "cl",
+    t: "crl",
     u: "https://www.craigslist.org/search/sss?query={{{s}}}",
   },
   {
@@ -122061,5 +122061,14 @@ export const bangs = [
     sc: "Online",
     t: "\u10d0\u10e1\u10e2\u10e0\u10dd",
     u: "http://astronet.ge/?s={{{s}}}",
+  },
+  {
+    c: "AI",
+    d: "www.claude.ai",
+    r: "0",
+    s: "Claude AI",
+    sc: "AI",
+    t: "cl",
+    u: "https://www.claude.ai/new?q={{{s}}}",
   },
 ];
